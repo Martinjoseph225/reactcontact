@@ -1,0 +1,12 @@
+.App {
+  background-color: rgb(230, 230, 230);
+  height: 100vh;
+  overflow: auto;
+  /* border: 3px solid rgb(27, 27, 27);
+  padding: 10px; */
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0),
+    rgba(30, 33, 49, 0.575)
+  );
+}
