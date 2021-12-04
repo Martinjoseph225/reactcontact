@@ -5,19 +5,22 @@
   justify-content: center;
   align-items: center;
 }
+.tech {
+  color: rgba(139, 32, 32, 0.904);
+}
 .para {
   margin: 3px;
   padding: 2px;
   font-weight: 600;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: rgb(22, 22, 53);
+  color: rgba(16, 44, 22, 0.726);
 }
 .para1 {
   margin: 3px;
   padding: 2px;
   font-weight: 600;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: rgb(35, 35, 71);
+  color: rgba(71, 83, 2, 0.842);
 }
 img {
   margin: 15px;
