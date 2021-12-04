@@ -10,9 +10,9 @@ const Home = () => {
       </h2>
       <h2 className="para1">You can build new contact and search the same</h2>
       <h2 className="para">* Add User to add new contact</h2>
-      <h2 className="para">* Search User to serach existing contact</h2>
+      <h2 className="para">* Search User to search existing contact</h2>
       <h2 className="para">
-        * Contact Us to will send me your feedback in mail
+        * Contact Us will send me your feedback to my mail id
       </h2>
       <img
         className="img"
