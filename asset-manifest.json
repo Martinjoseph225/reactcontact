@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactcontact/static/css/main.718eba51.chunk.css",
-    "main.js": "/reactcontact/static/js/main.1dd95501.chunk.js",
-    "main.js.map": "/reactcontact/static/js/main.1dd95501.chunk.js.map",
+    "main.css": "/reactcontact/static/css/main.c2bece39.chunk.css",
+    "main.js": "/reactcontact/static/js/main.2d7f3dd9.chunk.js",
+    "main.js.map": "/reactcontact/static/js/main.2d7f3dd9.chunk.js.map",
     "runtime-main.js": "/reactcontact/static/js/runtime-main.33c4161b.js",
     "runtime-main.js.map": "/reactcontact/static/js/runtime-main.33c4161b.js.map",
     "static/js/2.911292ea.chunk.js": "/reactcontact/static/js/2.911292ea.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.c39c1936.chunk.js": "/reactcontact/static/js/3.c39c1936.chunk.js",
     "static/js/3.c39c1936.chunk.js.map": "/reactcontact/static/js/3.c39c1936.chunk.js.map",
     "index.html": "/reactcontact/index.html",
-    "static/css/main.718eba51.chunk.css.map": "/reactcontact/static/css/main.718eba51.chunk.css.map",
+    "static/css/main.c2bece39.chunk.css.map": "/reactcontact/static/css/main.c2bece39.chunk.css.map",
     "static/js/2.911292ea.chunk.js.LICENSE.txt": "/reactcontact/static/js/2.911292ea.chunk.js.LICENSE.txt",
     "static/media/book.9afe7729.jpg": "/reactcontact/static/media/book.9afe7729.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.33c4161b.js",
     "static/js/2.911292ea.chunk.js",
-    "static/css/main.718eba51.chunk.css",
-    "static/js/main.1dd95501.chunk.js"
+    "static/css/main.c2bece39.chunk.css",
+    "static/js/main.2d7f3dd9.chunk.js"
   ]
 }
