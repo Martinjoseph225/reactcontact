@@ -12,33 +12,37 @@ const NavBar = () => {
       <Router>
         <div className="links">
           <div>
-            <Link to="/" className="link">
+            <Link to="/reactcontact/" className="link">
               Home
             </Link>
           </div>
 
           <div>
-            <Link to="/adduser" className="link">
+            <Link to="reactcontact/adduser" className="link">
               Add User
             </Link>
           </div>
           <div>
-            <Link to="/searchuser" className="link">
+            <Link to="reactcontact/searchuser" className="link">
               Search User
             </Link>
           </div>
           <div>
-            <Link to="/contactus" className="link">
+            <Link to="reactcontact/contactus" className="link">
               Contact Us
             </Link>
           </div>
         </div>
         <Routes>
-          <Route exact path="/contactus" element={<Contact />} />
+          <Route exact path="reactcontact/contactus" element={<Contact />} />
           {/* <Route exact path="/login" element={<Login />} /> */}
-          <Route exact path="/" element={<Home />} />
-          <Route exact path="/searchuser" element={<SearchUser />} />
-          <Route exact path="/adduser" element={<ContactForm />} />
+          <Route exact path="reactcontact/" element={<Home />} />
+          <Route
+            exact
+            path="reactcontact/searchuser"
+            element={<SearchUser />}
+          />
+          <Route exact path="reactcontact/adduser" element={<ContactForm />} />
         </Routes>
       </Router>
     </div>
